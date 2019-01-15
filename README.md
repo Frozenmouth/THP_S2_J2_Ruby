@@ -12,6 +12,7 @@
 # Projet THP "ruby" du 2ème jour de la 2nde semaine.
 
 Souffrance.
+N.B. : la commande "$ rubocop -a" est une bénédiction que l'on ne mérite pas.
 
 
 <pre>
